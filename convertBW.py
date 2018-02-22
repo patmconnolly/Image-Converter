@@ -3,6 +3,8 @@
 This program takes an image, converts it into a pure black or pure white bitmap,
 then using an array of prime numbers takes the image and creates a unique number
 corresponding to the original image.
+
+Currently Decrypt is not working.
 """
 
 from PIL import Image
